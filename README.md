@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adi1816 aka Aditya Srivastava
 - 👀 I’m interested in Coding and related stuffs
-- 🌱 I’m currently a 1st year fresher at BIT MESRA ( CS dept. )
+- 🌱 I’m currently a 2nd year CSE Student at BIT MESRA 
 - 💞️ I’m looking to collaborate with anyone who is interested in exploring and building a happy coding community
 - 📫 How to reach me ... You can see my profile on LinkedIn -> https://www.linkedin.com/in/aditya-srivastava-12476524a
 
