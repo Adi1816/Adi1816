@@ -4,6 +4,8 @@
 <img align="right" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="390" height="219">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adi1816&label=Profile%20views&color=0e75b6&style=flat" alt="adi1816" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adi1816&label=Profile%20views&color=0e75b6&style=flat" alt="adi1816" /> </p>
+
 <p align="left"> <a href="https://twitter.com/adiedits_1816" target="blank"><img src="https://img.shields.io/twitter/follow/adiedits_1816?logo=twitter&style=for-the-badge" alt="adiedits_1816" /></a> </p>
 
 - 🔭 I’m currently working on [My Fresher's Guide Project](https://github.com/Adi1816/Fresher-s-Guide)
@@ -39,9 +41,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adi1816&show_icons=true&locale=en" alt="adi1816" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adi1816&" alt="adi1816" /></p>
-
-
-<!---
-Adi1816/Adi1816 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
