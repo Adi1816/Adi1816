@@ -2,7 +2,7 @@
 <h1 align="center">Hey there 👋, I'm Aditya Srivastava</h1>
 <h3 align="center">A passionate Web Developer from BIT Mesra! My strengths are identifying solutions to complex problems and my eagerness to take on new challenges. It is important to me that I am not content with just any solution, as I am always striving to enhance and optimize the outcome. </h3>
 <img align="right" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="390" height="219">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adi1816&label=Profile%20views&color=0e75b6&style=flat" alt="adi1816" /> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adi1816&label=Profile%20views&color=0e75b6&style=flat" alt="adi1816" /> </p>
 
