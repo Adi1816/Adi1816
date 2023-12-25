@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQHTW0p6t29Vjg/profile-displaybackgroundimage-shrink_350_1400/0/1684076489330?e=1709164800&v=beta&t=kNCr2zfTYmHXgJrfegClFXO20kgcrDeGkghU0TasM_0)](https://Adi1816.io)
 <h1 align="center">Hey there 👋, I'm Aditya Srivastava</h1>
 <h3 align="center">A passionate Web Developer from BIT Mesra!</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/68038931/147838988-0179a135-1d5f-4031-bc7c-3416f3286af9.gif”>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adi1816&label=Profile%20views&color=0e75b6&style=flat" alt="adi1816" /> </p>
 
