@@ -1,8 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQHTW0p6t29Vjg/profile-displaybackgroundimage-shrink_350_1400/0/1684076489330?e=1709164800&v=beta&t=kNCr2zfTYmHXgJrfegClFXO20kgcrDeGkghU0TasM_0)](https://Adi1816.io)
 <h1 align="center">Hey there 👋, I'm Aditya Srivastava</h1>
-<h3 align="center">A passionate Web Developer from BIT Mesra! My strengths are identifying solutions to complex problems and my eagerness to take on new challenges. It is important to me that I am not content with just any solution, as I am always striving to enhance and optimize the outcome</h3>
-<img align="right" width="400" alt="stats" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966”>
-
+<h3 align="center">A passionate Web Developer from BIT Mesra! My strengths are identifying solutions to complex problems and my eagerness to take on new challenges. It is important to me that I am not content with just any solution, as I am always striving to enhance and optimize the outcome. </h3>
+<img align="right" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="390" height="219">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adi1816&label=Profile%20views&color=0e75b6&style=flat" alt="adi1816" /> </p>
 
 <p align="left"> <a href="https://twitter.com/adiedits_1816" target="blank"><img src="https://img.shields.io/twitter/follow/adiedits_1816?logo=twitter&style=for-the-badge" alt="adiedits_1816" /></a> </p>
