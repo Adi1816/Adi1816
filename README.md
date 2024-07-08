@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/adiedits_1816" target="blank"><img src="https://img.shields.io/twitter/follow/adiedits_1816?logo=twitter&style=for-the-badge" alt="adiedits_1816" /></a> </p>
 
-- 🔭 I’m currently working on [A Research Project based on Computational Poetics](https://github.com/Adi1816/Fresher-s-Guide)
+- 🔭 I’m currently working on [A Research Project based on Computational Poetics]([https://github.com/Adi1816/Fresher-s-Guide](https://ccpbitmesra.in/))
 
 - 🌱 I’m currently learning **ML and MERN**
 
