@@ -14,9 +14,9 @@
 
 - 👯 I’m looking to collaborate with **ANYONE!**
 
-- 👨‍💻 All of my projects are available at [https://adi1816.github.io/AdiInYourHeart/](https://adi1816.github.io/AdiInYourHeart/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://adi1816.github.io/AdiInYourHeart/)
 
-- 📝 I'm also an occasional video editor, handy with After Affects and Premiere Pro [https://www.instagram.com/adiedits_1816/](https://www.instagram.com/adiedits_1816/)
+- 📝 I'm also an occasional video editor, handy with After Affects and Premiere Pro. [Click here to see my work](https://www.instagram.com/adiedits_1816/)
 
 - 💬 Ask me about **Web Development or any fun stuffs**
 
