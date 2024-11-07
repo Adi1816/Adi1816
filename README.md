@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHq851ZmXN3eQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725027744993?e=1730937600&v=beta&t=23LLrr-FoyxLZzAGABVhnx2wIGdSZ-UaccNfGjc7qyM)](https://adi1816.github.io/AdiInYourHeart/)
+[![MasterHead](https://github.com/Adi1816/Adi1816/blob/main/WhatsApp%20Image%202024-11-07%20at%2021.41.24.jpeg)](https://adi1816.github.io/AdiInYourHeart/)
 <h1 align="center">Hey there 👋, I'm Aditya Srivastava</h1>
 <h3 align="center">A passionate Web Developer from BIT Mesra! My strengths are identifying solutions to complex problems and my eagerness to take on new challenges. It is important to me that I am not content with just any solution, as I am always striving to enhance and optimize the outcome. </h3>
 <img align="right" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="390" height="219">
