@@ -8,17 +8,21 @@
 
 <p align="left"> <a href="https://twitter.com/adiedits_1816" target="blank"><img src="https://img.shields.io/twitter/follow/adiedits_1816?logo=twitter&style=for-the-badge" alt="adiedits_1816" /></a> </p>
 
-- 🔭 I’m currently working on [A Research Project based on Computational Poetics](https://ccpbitmesra.in/)
+- 🔭 I’m currently working on [An AI Based Mock Interview Platform](https://ai-mock-interview-delta-one.vercel.app/)
 
-- 🌱 I’m currently learning **ML and MERN**
+- 🔭 I've worked on a [A Research Project based on Computational Poetics](https://ccpbitmesra.in/)
+
+- 🧑🏻‍💻 I've also been a CP Tutor at [TLE Eliminators](https://www.tle-eliminators.com/)
+
+- 🌱 I’m currently learning **AI/ML and MERN**
 
 - 👯 I’m looking to collaborate with **ANYONE!**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://adi1816.github.io/AdiInYourHeart/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://linktr.ee/Adi1816)
 
 - 📝 I'm also an occasional video editor, handy with After Affects and Premiere Pro. [Click here to see my work](https://www.instagram.com/adiedits_1816/)
 
-- 💬 Ask me about **Web Development or any fun stuffs**
+- 💬 Ask me about **CP, DSA, Web Development or any fun stuffs**
 
 - 📫 How to reach me **sriaditya16@gmail.com**
 
