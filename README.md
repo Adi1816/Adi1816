@@ -42,9 +42,9 @@
 ---
 
 ### 🌟 Career Highlights:
-- [cite_start]🥇 **Flipkart GRID 7.0:** National Finalist, securing **Rank 4** among 160,000+ participants[cite: 46].
-- [cite_start]🛡️ **Meta Hacker Cup:** 2x consecutive Round 2 Qualifier[cite: 47].
-- [cite_start]💼 **Offers:** Successfully secured FTE offers from **Flipkart** and **Cisco**[cite: 45].
+- 🥇 **Flipkart GRID 7.0:** National Finalist, securing **Rank 4** among 160,000+ participants[cite: 46].
+- 🛡️ **Meta Hacker Cup:** 2x consecutive Round 2 Qualifier[cite: 47].
+- 💼 **Offers:** Successfully secured FTE offers from **Flipkart** and **Cisco**[cite: 45].
 - 🎬 **Creative:** Skilled video editor proficient in **After Effects** and **Premiere Pro**.
 
 ---
