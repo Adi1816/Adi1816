@@ -1,47 +1,78 @@
-[![MasterHead](https://github.com/Adi1816/Adi1816/blob/main/Gemini_Generated_Image_syxhblsyxhblsyxh.png)](https://adi1816.github.io/AdiInYourHeart/)
-<h1 align="center">Hey there 👋, I'm Aditya Srivastava</h1>
-<h3 align="center">A passionate Web Developer from BIT Mesra! My strengths are identifying solutions to complex problems and my eagerness to take on new challenges. It is important to me that I am not content with just any solution, as I am always striving to enhance and optimize the outcome. </h3>
-<img align="right" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="390" height="219">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adi1816&label=Profile%20views&color=0e75b6&style=flat" alt="adi1816" /> </p>
-
-<p align="left"> <a href="https://twitter.com/adiedits_1816" target="blank"><img src="https://img.shields.io/twitter/follow/adiedits_1816?logo=twitter&style=for-the-badge" alt="adiedits_1816" /></a> </p>
-
-- 🔭 I’m currently working on [An AI Based Mock Interview Platform](https://ai-mock-interview-delta-one.vercel.app/)
-
-- 🔭 I've worked on a [A Research Project based on Computational Poetics](https://ccpbitmesra.in/)
-
-- 🧑🏻‍💻 I've also been a CP Tutor at [TLE Eliminators](https://www.tle-eliminators.com/)
-
-- 🌱 I’m currently learning **AI/ML and MERN**
-
-- 👯 I’m looking to collaborate with **ANYONE!**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://linktr.ee/Adi1816)
-
-- 📝 I'm also an occasional video editor, handy with After Affects and Premiere Pro. [Click here to see my work](https://www.instagram.com/adiedits_1816/)
-
-- 💬 Ask me about **CP, DSA, Web Development or any fun stuffs**
-
-- 📫 How to reach me **sriaditya16@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adiedits_1816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adiedits_1816" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aditya-srivastava-12476524a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya srivastava" height="30" width="40" /></a>
-<a href="https://www.instagram.com/adiedits_1816/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adiedits_1816" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC8-pQncrnK98FspFennTZAg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@diedits" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sriaditya16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sriaditya16" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/order_of_phoenix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="order_of_phoenix" height="30" width="40" /></a>
-<a href="https://leetcode.com/Aditya_1816/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya_1816" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://adi1816.github.io/AdiInYourHeart/">
+    <img src="https://github.com/Adi1816/Adi1816/blob/main/Gemini_Generated_Image_syxhblsyxhblsyxh.png" width="800" alt="MasterHead">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h1 align="center">Hey there 👋, I'm Aditya Srivastava</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adi1816&show_icons=true&locale=en&layout=compact" alt="adi1816" /></p>
+<h3 align="center">
+  Software Development Engineer at <b>Oracle</b> | BIT Mesra Alum | Competitive Programmer
+</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adi1816&show_icons=true&locale=en" alt="adi1816" /></p>
+<p align="center">
+  <i>A dedicated engineer focused on architecting scalable cloud-native systems and optimizing complex backend workflows.</i>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adi1816&" alt="adi1816" /></p>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=adi1816&label=Profile%20views&color=0e75b6&style=flat" alt="adi1816" />
+  <a href="https://twitter.com/adiedits_1816" target="blank"><img src="https://img.shields.io/twitter/follow/adiedits_1816?logo=twitter&style=for-the-badge" alt="adiedits_1816" /></a>
+</p>
+
+---
+
+### 🚀 What I'm currently up to:
+
+- 🏢 **Professional:** Currently an SDE Intern at **Oracle** (OSDMC), refactoring backend architectures with Factory Design Patterns and migrating modules to the Rapid framework.
+- [cite_start]🏆 **CP Achievements:** Recently achieved **Global Rank 264** (AIR 3) in Codeforces Round 1093; maintained **Knight** status on LeetCode[cite: 9, 49].
+- [cite_start]💡 **AI Innovation:** Scaling [AI Mock Interview](https://ai-mock-interview-delta-one.vercel.app/), a full-stack platform processing over 500 interviews using **Next.js 14** and **Gemini AI**[cite: 34, 35, 37].
+- [cite_start]🧪 **Research:** Continuing work on [Computational Poetics](https://ccpbitmesra.in/), analyzing Hindi poetry metrics with a performance-optimized React platform[cite: 40, 42, 43].
+- [cite_start]🧑🏻‍💻 **Mentorship:** Former Math & CP Tutor at [TLE Eliminators](https://www.tle-eliminators.com/), helping 200+ students improve their ratings[cite: 28, 29, 31].
+
+---
+
+### 🛠️ Tech Stack & Tools:
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+</p>
+
+---
+
+### 🌟 Career Highlights:
+- [cite_start]🥇 **Flipkart GRID 7.0:** National Finalist, securing **Rank 4** among 160,000+ participants[cite: 46].
+- [cite_start]🛡️ **Meta Hacker Cup:** 2x consecutive Round 2 Qualifier[cite: 47].
+- [cite_start]💼 **Offers:** Successfully secured FTE offers from **Flipkart** and **Cisco**[cite: 45].
+- 🎬 **Creative:** Skilled video editor proficient in **After Effects** and **Premiere Pro**.
+
+---
+
+### 📊 GitHub Analytics:
+
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adi1816&show_icons=true&locale=en&layout=compact&theme=radical" alt="adi1816" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adi1816&show_icons=true&locale=en&theme=radical" alt="adi1816" />
+</p>
+
+---
+
+### 📬 Connect with me:
+<p align="left">
+  <a href="https://my-portfolio-five-chi-zmnvcxxmpb.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" height="25" /></a>
+  <a href="https://www.linkedin.com/in/aditya-srivastava-12476524a/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aditya Srivastava" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/order_of_phoenix" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="order_of_phoenix" height="30" width="40" /></a>
+  <a href="mailto:sriaditya16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
+</p>
+
+*"Building the future one optimized commit at a time."*
