@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://adi1816.github.io/AdiInYourHeart/">
-    <img src="https://github.com/Adi1816/Adi1816/blob/main/Gemini_Generated_Image_syxhblsyxhblsyxh.png" width="800" alt="MasterHead">
+    <img src="IMG-20260427-WA0027.jpg" width="800" alt="MasterHead">  
   </a>
 </p>
 
