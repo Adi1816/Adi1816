@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <i>A dedicated engineer focused on architecting scalable cloud-native systems and optimizing complex backend workflows.</i>
+  [cite_start]<i>A dedicated engineer focused on architecting scalable cloud-native systems and optimizing complex backend workflows. [cite: 16, 17]</i>
 </p>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350">
@@ -25,26 +25,25 @@
 
 ### 🚀 What I'm currently up to:
 
-- 🏢 **Professional:** Currently an SDE Intern at **Oracle** (OSDMC), refactoring backend architectures with Factory Design Patterns and migrating modules to the Rapid framework.
-- [cite_start]🏆 **CP Achievements:** Recently achieved **Global Rank 264** (AIR 3) in Codeforces Round 1093; maintained **Knight** status on LeetCode[cite: 9, 49].
-- [cite_start]💡 **AI Innovation:** Scaling [AI Mock Interview](https://ai-mock-interview-delta-one.vercel.app/), a full-stack platform processing over 500 interviews using **Next.js 14** and **Gemini AI**[cite: 34, 35, 37].
-- [cite_start]🧪 **Research:** Continuing work on [Computational Poetics](https://ccpbitmesra.in/), analyzing Hindi poetry metrics with a performance-optimized React platform[cite: 40, 42, 43].
-- [cite_start]🧑🏻‍💻 **Mentorship:** Former Math & CP Tutor at [TLE Eliminators](https://www.tle-eliminators.com/), helping 200+ students improve their ratings[cite: 28, 29, 31].
+- 🏢 **Professional:** Currently an SDE Intern at **Oracle** (OSDMC), refactoring backend architectures with Factory Design Patterns.
+- [cite_start]🏆 **CP Achievements:** Recently achieved **Global Rank 264** (AIR 3) in Codeforces Round 1093[cite: 49].
+- [cite_start]💡 **AI Innovation:** Scaling [AI Mock Interview](https://ai-mock-interview-delta-one.vercel.app/), a full-stack platform processing over 500 interviews[cite: 34, 35, 37].
+- [cite_start]🧪 **Research:** Developed computational tools for analyzing Hindi poetry metrics with 100/100 accessibility[cite: 40, 43].
+- [cite_start]🧑🏻‍💻 **Mentorship:** Former Math & CP Tutor at **TLE Eliminators**, mentoring 200+ students[cite: 28, 29, 31].
 
 ---
 
 ### 🛠️ Tech Stack & Tools:
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </p>
 
@@ -68,11 +67,23 @@
 ---
 
 ### 📬 Connect with me:
+
 <p align="left">
-  <a href="https://my-portfolio-five-chi-zmnvcxxmpb.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" height="25" /></a>
-  <a href="https://www.linkedin.com/in/aditya-srivastava-12476524a/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aditya Srivastava" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/order_of_phoenix" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="order_of_phoenix" height="30" width="40" /></a>
-  <a href="mailto:sriaditya16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
+  <a href="https://my-portfolio-five-chi-zmnvcxxmpb.vercel.app/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" height="30" />
+  </a> &nbsp;
+  <a href="https://www.linkedin.com/in/aditya-srivastava-12476524a/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a> &nbsp;
+  <a href="https://codeforces.com/profile/order_of_phoenix" target="blank">
+    <img src="https://img.shields.io/badge/Codeforces-445?style=for-the-badge&logo=codeforces&logoColor=white" height="30" />
+  </a> &nbsp;
+  <a href="https://leetcode.com/Aditya_1816/" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30" />
+  </a> &nbsp;
+  <a href="mailto:sriaditya16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+  </a>
 </p>
 
 *"Building the future one optimized commit at a time."*
