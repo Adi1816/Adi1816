@@ -26,10 +26,10 @@
 ### 🚀 What I'm currently up to:
 
 - 🏢 **Professional:** Currently an SDE Intern at **Oracle** (OSDMC), refactoring backend architectures with Factory Design Patterns.
-- [cite_start]🏆 **CP Achievements:** Recently achieved **Global Rank 264** (AIR 3) in Codeforces Round 1093[cite: 49].
-- [cite_start]💡 **AI Innovation:** Scaling [AI Mock Interview](https://ai-mock-interview-delta-one.vercel.app/), a full-stack platform processing over 500 interviews[cite: 37].
-- [cite_start]🧪 **Research:** Developed computational tools for analyzing Hindi poetry metrics with 100/100 accessibility[cite: 40, 43].
-- [cite_start]🧑🏻‍💻 **Mentorship:** Former Math & CP Tutor at **TLE Eliminators**, mentoring 200+ students[cite: 28, 31].
+- 🏆 **CP Achievements:** Recently achieved **Global Rank 264** (AIR 3) in Codeforces Round 1093[cite: 49].
+- 💡 **AI Innovation:** Scaling [AI Mock Interview](https://ai-mock-interview-delta-one.vercel.app/), a full-stack platform processing over 500 interviews[cite: 37].
+- 🧪 **Research:** Developed computational tools for analyzing Hindi poetry metrics with 100/100 accessibility[cite: 40, 43].
+- 🧑🏻‍💻 **Mentorship:** Former Math & CP Tutor at **TLE Eliminators**, mentoring 200+ students[cite: 28, 31].
 
 ---
 
